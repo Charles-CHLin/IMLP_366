@@ -1,2 +1,2 @@
 # IMLP_366
-For the homework. HAHA
+資工訓練班第366期Python機器學習入門
