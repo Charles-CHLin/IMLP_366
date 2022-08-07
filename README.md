@@ -1,2 +1,2 @@
-# IMLP_366
+# IMLP366
 For the homework. HAHA
